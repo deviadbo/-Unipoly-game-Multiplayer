@@ -23,6 +23,7 @@ Below you will find some photos from the game, and a link to a YouTube video I m
 
 
 **Programing Languages:** C#
+
 **IDE:** Unity, Visual Studio
 
 Icons created by [Freepik](https://www.flaticon.com/authors/freepik)  & [Smashicons](https://www.flaticon.com/authors/Smashicons)
