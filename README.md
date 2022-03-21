@@ -16,7 +16,7 @@ I wrote the game using the MVC architecture, thus achieving a total separation o
 
 #### Technologies 
 The game is developed in an environment of Unity and C#.
-For the multiplayer mode I used in AppWarp API.
+For the multiplayer mode I used the AppWarp API, which offers diffrent callbacks functions to help me to mange the lifecycle of the game.
 
 Below you will find some photos from the game, and a link to a YouTube video I made to demonstrate the game flows.
 
