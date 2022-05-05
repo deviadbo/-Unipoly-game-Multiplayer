@@ -21,7 +21,7 @@ For the multiplayer mode I used the AppWarp API, which offers diffrent callbacks
 Below you will find some photos from the game, and a link to a YouTube video I made to demonstrate the game flows.
 
 
-![Youtube]( https://youtu.be/oRTP6OERYeQ)
+[Link to YouTube](https://youtu.be/oRTP6OERYeQ "Link to Youtube")
 
 
 **Programing Languages:** C#
